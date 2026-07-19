@@ -1,9 +1,9 @@
 {
   "name": "E2E Encryption Plugin",
-  "description": "KettuTweakìš© ì¢…ë‹¨ê°„ ì•”í˜¸í™” ì„¸ì…˜ í”ŒëŸ¬ê·¸ì¸",
+  "description": "KettuTweak용 종단간 암호화 세션 플러그인",
   "version": "1.0.0",
   "author": "Manus AI",
-  "main": "index.js",
+  "main": "plugins/e2ee/index.js",
   "license": "OSL-3.0",
   "dependencies": {},
   "settings": []
