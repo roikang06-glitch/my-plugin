@@ -3,7 +3,7 @@
   "description": "KettuTweak용 종단간 암호화 세션 플러그인",
   "version": "1.0.0",
   "author": "Manus AI",
-  "main": "plugins/e2ee/index.js",
+  "main": "index.js", 
   "license": "OSL-3.0",
   "dependencies": {},
   "settings": []
