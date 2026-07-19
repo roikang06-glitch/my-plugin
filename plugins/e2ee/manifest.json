@@ -1,0 +1,10 @@
+{
+  "name": "E2E Encryption Plugin",
+  "description": "KettuTweakìš© ì¢…ë‹¨ê°„ ì•”í˜¸í™” ì„¸ì…˜ í”ŒëŸ¬ê·¸ì¸",
+  "version": "1.0.0",
+  "author": "Manus AI",
+  "main": "index.js",
+  "license": "OSL-3.0",
+  "dependencies": {},
+  "settings": []
+}
